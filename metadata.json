@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Prive",
+  "description": "A premium luxury real estate platform designed for HNIs and NRIs, featuring AI-driven investment advisory and curated global property assets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
